@@ -1,7 +1,7 @@
+### Hi there 👋
 
 
-  <p align="center">
-    ### Hi there 👋
+  <p align="left">
     <a href="https://github.com/erasmogarcia84/erasmogarcia84/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
@@ -21,9 +21,9 @@
     </a>
     <br />
     <br />
-    ![Erasmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=erasmogarcia84&theme=dark&show_icons=true&count_private=true)
   </p>
 
+    ![Erasmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=erasmogarcia84&theme=dark&show_icons=true&count_private=true)
 
 
 <!--
